@@ -9,3 +9,6 @@ g4 ĞŞ¸ÄÎÄ¼ş
 gy 1152 line 8
 
 g41150 line8
+
+
+g4 1200 line 14v rep_file
